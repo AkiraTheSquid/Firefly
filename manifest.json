@@ -1,0 +1,22 @@
+{
+    "manifestVersion": 1,
+    "id": "Firefly",
+    "name": "Firefly",
+    "author": "AkiraTheSquid",
+    "repoUrl": "",
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 1
+    },
+    "theme": ["dark"],
+    "enableOnMobile": false,
+    "description": "A theme that emulates the visual elements of logseq. Note to Remnote Team: Please see attached Logseq Icon jpeg and attach it in the theme store.",
+    "requestNative": false,
+    "requiredScopes": [
+      {
+        "type": "All",
+        "level": "Read"
+      }
+    ]
+  }
