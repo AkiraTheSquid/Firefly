@@ -1,0 +1,22 @@
+{
+    "manifestVersion": 1,
+    "id": "Firefly",
+    "name": "Firefly",
+    "author": "AkiraTheSquid",
+    "repoUrl": "https://github.com/AkiraTheSquid/Firefly",
+    "version": {
+      "major": 0,
+      "minor": 3,
+      "patch": 0
+    },
+    "theme": ["dark"],
+    "enableOnMobile": false,
+    "description": "A firefly theme with calming colors to spruce up your notes.",
+    "requestNative": false,
+    "requiredScopes": [
+      {
+        "type": "All",
+        "level": "Read"
+      }
+    ]
+  }
